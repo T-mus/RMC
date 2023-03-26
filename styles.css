@@ -2062,16 +2062,21 @@ h6 {
   }
 }
 .availability__navigation {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  height: 15px;
-  width: 100%;
-  background-color: #23262F;
-  padding: 2px 0px;
+  display: none;
+}
+@media (max-width: 1230px) {
+  .availability__navigation {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    height: 15px;
+    width: 100%;
+    background-color: #23262F;
+    padding: 2px 0px;
+  }
 }
 .availability__scrollbar {
   height: 100%;
