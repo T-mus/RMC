@@ -1,0 +1,276 @@
+{
+    "projects": [
+        {
+            "pageAll": [
+                {
+                    "id": "#all"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(1).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(2).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(3).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(4).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(5).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(6).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(7).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(8).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(9).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(10).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(1).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(2).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(3).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(4).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(5).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(6).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(7).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(8).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(9).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(10).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(1).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(2).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(3).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(4).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(5).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(6).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(7).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(8).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(9).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(10).jpg"
+                }
+            ]
+        },
+
+        {
+            "pageArchitecture": [
+                {
+                    "id": "#architecture"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(1).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(2).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(3).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(4).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(5).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(6).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(7).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(8).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(9).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "architecture(10).jpg"
+                }
+            ]
+        },
+        
+        {
+            "pageConstruction": [
+                {
+                    "id": "#construction"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(1).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(2).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(3).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(4).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(5).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(6).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(7).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(8).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(9).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "construction(10).jpg"
+                }
+            ]
+        },            
+
+        {
+            "pageDesign": [
+                {
+                    "id": "#interior-design"
+                },
+                {
+                    "url": "#",
+                    "image": "design(1).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(2).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(3).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(4).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(5).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(6).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(7).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(8).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(9).jpg"
+                },
+                {
+                    "url": "#",
+                    "image": "design(10).jpg"
+                }
+            ]
+        }
+    ]
+}
+
